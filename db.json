@@ -1,12 +1,11 @@
 {
   "NetflixAPI" : [
     {
-      Title: "JAILER (2023)",
-      Image: "https://i.postimg.cc/4ynnsjFV/image.jpg",
-      MainCategory: "Action",
-      Geans: "Ullu",
-      FileID: "rk5rczhqsI3j",
-      id: "1"
+      "Title": "JAILER (2023)",
+      "Image": "https://i.postimg.cc/4ynnsjFV/image.jpg",
+      "MainCategory": "Action",
+      "FileID": "rk5rczhqsI3j",
+      "id": "1"
       }
   ]
 }
