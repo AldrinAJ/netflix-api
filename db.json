@@ -1,3 +1,12 @@
 {
-  "Netflixdata" : []
+  "NetflixAPI" : [
+    {
+      Title: "JAILER (2023)",
+      Image: "https://i.postimg.cc/4ynnsjFV/image.jpg",
+      MainCategory: "Action",
+      Geans: "Ullu",
+      FileID: "rk5rczhqsI3j",
+      id: "1"
+      }
+  ]
 }
