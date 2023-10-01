@@ -1,22 +1,463 @@
 {
   "NetflixAPI" : [
-    {
-      "Title": "JAILER (2023)",
-      "Image": "https://i.postimg.cc/4ynnsjFV/image.jpg",
-      "MainCategory": "Movies",
-      "Geans":"Romantic",
-      "FileID": "ulrokd41fejx",
-      "Plateform":"Doodstream",
-      "id": 2
-      },
-     {
-      "Title":"Pelli SandaD Full Movie",
-      "Image":"https://img.doodcdn.co/cover/l8vnence5sdisocc-5z8h91kixhr3.jpg",    
-      "MainCategory":"Movies",
-      "Geans":"Romantic",
-      "FileID":"kzgdx248445i",
-      "Plateform":"Doodstream",     
-      "id":1    
-      }
+        {
+          "Title": "JAILER (2023)",
+          "Image": "https://i.postimg.cc/4ynnsjFV/image.jpg",
+          "MainCategory": "Movies",
+          "Geans":"Romantic",
+          "FileID": "ulrokd41fejx",
+          "Plateform":"Doodstream",
+          "id": 51
+          },
+         {
+        "Title": "Taj: Divided by Blood S1",
+        "Image": "https://i.postimg.cc/6QWFn1PY/Taj-Divided-by-blood-season-1-total-run-time-episodes-list-and-length.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 50
+        },
+        {
+        "Title": "Daisy Jones & The Six S1 Hindi",
+        "Image": "https://i.postimg.cc/rFpJG2yd/x5W6zLH.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 49
+        },
+        {
+        "Title": "Jaggu Ani Juliet Hindi Dubbed",
+        "Image": "https://i.postimg.cc/sg5CzWFC/Jaggu-Ani-Juliet-Marathi-Movie-Download-1024x576.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 48
+        },
+        {
+        "Title": "The Pimp : No F***ing Fairytale S1 Hindi",
+        "Image": "https://i.postimg.cc/6pZc1Vkn/The-Pimp-No-F-ing-Fairytale.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 47
+        },
+        {
+        "Title": "Farzi S1 Hindi HQ",
+        "Image": "https://i.postimg.cc/9F01hH7d/Farzi-Season-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 46
+        },
+        {
+        "Title": "Love Guru S2 Part 2",
+        "Image": "https://i.postimg.cc/d3j31VS5/love-guru-season-2-part-2.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 45
+        },
+        {
+        "Title": "Gandii Baat S7",
+        "Image": "https://i.postimg.cc/vmjcZbF9/1677329900084061800-73.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 44
+        },
+        {
+        "Title": "Stree Full Movie",
+        "Image": "https://i.postimg.cc/VNJRdfTW/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 43
+        },
+        {
+        "Title": "Shiddat Full Movie",
+        "Image": "https://i.postimg.cc/nLFXPXFH/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 42
+        },
+        {
+        "Title": "Varisu Hindi Dubbed Full Movie",
+        "Image": "https://i.postimg.cc/4xKt17xj/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 41
+        },
+        {
+        "Title": "The Strays Hindi Dubbed",
+        "Image": "https://i.postimg.cc/rmFj9y0b/tt16437278.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 40
+        },
+        {
+        "Title": "Kabir Singh - Full Movie",
+        "Image": "https://i.postimg.cc/s2d4bDk1/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 39
+        },
+        {
+        "Title": "Class S1",
+        "Image": "https://i.postimg.cc/QCVZWbxB/CLASSWRR-1675587492295.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Crime",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 38
+        },
+        {
+        "Title": "Jehanabad : Of Love & War S1",
+        "Image": "https://i.postimg.cc/rsLvnJQY/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Crime",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 37
+        },
+        {
+        "Title": "The Teacher Hindi Dubbed Full Movie",
+        "Image": "https://i.postimg.cc/HxbxK64q/dgv8y25fxsqw7kz3-c3t1oatcwx8b.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 36
+        },
+        {
+        "Title": "Maha 2023 Full Movie",
+        "Image": "https://i.postimg.cc/WpG32fLz/Maha-Tamil-Movie-Poster-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 35
+        },
+        {
+        "Title": "18 Pagess 2022 Full Movie",
+        "Image": "https://i.postimg.cc/k45mqB7n/18-Pages-e1672202387553.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 34
+        },
+        {
+        "Title": "Big Dhamka 2023 south Hindi Full Movie",
+        "Image": "https://i.postimg.cc/Lst0X9nW/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 33
+        },
+        {
+        "Title": "Jaanbaaz Hindustan Ke S1",
+        "Image": "https://i.postimg.cc/5NwDkSmv/Jaanbaaz-Hindustan-Ke.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 32
+        },
+        {
+        "Title": "Jhansi S2 Hotstar",
+        "Image": "https://i.postimg.cc/8s82qFqy/image.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 31
+        },
+        {
+        "Title": "Chhatriwali Full Movie",
+        "Image": "https://i.postimg.cc/VNXDVrDZ/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 30
+        },
+        {
+        "Title": "Rafta Rafta S1",
+        "Image": "https://i.postimg.cc/zvQmpHG2/4-ms-zxoumtaphi.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 29
+        },
+        {
+        "Title": "Dear Ishq S1",
+        "Image": "https://i.postimg.cc/PqtJs12C/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 28
+        },
+        {
+        "Title": "Major Full Movie",
+        "Image": "https://vijaysolution.com/wp-content/uploads/2022/06/Major-Movie-Download-Filmyzilla-Review-480p-720p-1080p.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 27
+        },
+        {
+        "Title": "I Hate Christmas S1",
+        "Image": "https://occ-0-64-1348.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfqoE8GcnACjr6uQNe590svabV8fA3Fo5cZ7E3ot1bTBdKzB9ER-6ja3YDmoYqbmKQArdCuECLPh5ErkpAl3eEBXbD--TtAglk1J.jpg?r=82f",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 26
+        },
+        {
+        "Title": "Hit the First Case Full Movie",
+        "Image": "https://i.ytimg.com/vi/vr2XnkyEQJ8/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Crime",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 25
+        },
+        {
+        "Title": "Mirzapur 2018 Season 1",
+        "Image": "https://webseriestale.com/wp-content/uploads/2020/07/mirzapur-season-1-web-series.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream", 
+        "id": 24
+        },
+        {
+        "Title": "Barun Rai and the House on the Cliff Full Movie",
+        "Image": "https://britasia.tv/wp-content/uploads/2021/10/barunrai.jpeg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 23
+        },
+        {
+        "Title": "Khaao Piyo Aish Karo Full Movie",
+        "Image": "https://i.ytimg.com/vi/zNZUrIdwzuA/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 22
+        },
+        {
+        "Title": "Mirzapur 2020 Season 2",
+        "Image": "https://www.iwmbuzz.com/wp-content/uploads/2020/02/all-you-need-to-know-about-mirzapur-season-2.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 21
+        },
+        {
+        "Title": "Lekh Punjabi Full Movie",
+        "Image": "https://i.ytimg.com/vi/KeVP1cLhyb0/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 20
+        },
+        {
+        "Title": "Judaa Hoke Bhi Full Movie",
+        "Image": "https://www.famousbollywood.com/wp-content/uploads/2022/09/Judaa-Hoke-Bhi-2022-Movie-Download.webp",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 19
+        },
+        {
+        "Title": "Mister Mummy Full Movie",
+        "Image": "https://www.famousbollywood.com/wp-content/uploads/2022/11/Mister-Mummy-Movie-Download.webp",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 18
+        },
+        {
+        "Title": "taaza khabar",
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5001/1445001-h-afaa07019b4d",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 17
+        },
+        {
+        "Title": "Middle Class Love",
+        "Image": "https://www.famousbollywood.com/wp-content/uploads/2022/09/Middle-Class-Love-2022-Movie-Download-.webp",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 16
+        },
+        {
+        "Title": "Swagger Sharma Trust Issues",
+        "Image": "https://images.ottplay.com/images/poster-of-the-show-418.jpg?impolicy=ottplay-20210210&width=1200&height=675",
+        "MainCategory": "WebSeries",
+        "Geans": "Comedy",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 15
+        },
+        {
+        "Title": "Where the Crawdads Sing Full Movie Hindi",
+        "Image": "https://www.deccanherald.com/sites/dh/files/Deccan%20Herald%208%20%28Anim%29.png",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 14
+        },
+        {
+        "Title": "X Ray: The Inner Image Full Movie",
+        "Image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2019/11/X-Ray-The-Inner-Image-585x405.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 13
+        },
+        {
+        "Title": "Vivah Bollywood Hindi Full Movie",
+        "Image": "https://i.ytimg.com/vi/EdJW_i9_Pc0/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 12
+        },
+        {
+        "Title": "Uunchai Full Movie",
+        "Image": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1666099569.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 11
+        },
+        {
+        "Title": "Drishyam 2 Full Movie",
+        "Image": "https://i.ytimg.com/vi/4FjTX9u2p5g/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 10
+        },
+        {
+        "Title": "Mili Full Movie",
+        "Image": "https://img.doodcdn.co/cover/zre7kg0rasfwuej7-k7j80gkxxofx.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 9
+        },
+        {
+        "Title": "Kantra Full Movie HD 1080p",
+        "Image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/11/Untitled1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 8
+        },
+        {
+        "Title": "Physics Wallah S1",
+        "Image": "https://shoutingstars.com/wp-content/uploads/2022/12/01D0CE78-F33C-4FC0-AAE6-7F1CCB7BEE7B.png",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 7
+        },
+        {
+        "Title": "Fall S1",
+        "Image": "https://img.doodcdn.co/cover/t3koai8jh5w6vek3-zrmcaexnqpt0.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 6
+        },
+        {
+        "Title": "Double XL Full Movie in hindi",
+        "Image": "https://img.doodcdn.co/cover/ob3wobdupcxyt071-yezzhvgff00e.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 5
+        },
+        {
+        "Title": "Jersey Full Movie",
+        "Image": "https://img.doodcdn.co/cover/ccjjjzxiivq83x11-ugacm40tdnc3.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 4
+        },
+        {
+        "Title": "Honeymoon Full Movie",
+        "Image": "https://occ-0-1433-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABT0eQY_zSpgjjocp4I2Vp6I6xY5KC8B9JP3dn8t4lUYq0QCmY01eT08aP6l-EsuZd7XngQJBvEA6_BJ_7YcFtsgWk9zyC9BuDty5.jpg?r=c28",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 3
+        },
+        {
+        "Title": "Flames S3",
+        "Image": "https://img.doodcdn.co/cover/i86w07bjbxxgfl1w-jy5ojaflndbd.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "",
+        "Plateform":"Doodstream",     
+        "id": 2
+        },
+        {
+        "Title":"Pelli SandaD Full Movie",
+        "Image":"https://img.doodcdn.co/cover/l8vnence5sdisocc-5z8h91kixhr3.jpg",    
+        "MainCategory":"Movies",
+        "Geans":"Romantic",
+        "FileID":"",
+        "Plateform":"Doodstream",     
+        "id":1    
+        }
   ]
 }
