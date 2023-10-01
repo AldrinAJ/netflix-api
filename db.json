@@ -3,9 +3,20 @@
     {
       "Title": "JAILER (2023)",
       "Image": "https://i.postimg.cc/4ynnsjFV/image.jpg",
-      "MainCategory": "Action",
+      "MainCategory": "Movies",
+      "Geans":"Romantic",
       "FileID": "rk5rczhqsI3j",
-      "id": "1"
+      "Plateform":"Doodstream",
+      "id": "2"
+      },
+     {
+      "Title":"Pelli SandaD Full Movie",
+      "Image":"https://img.doodcdn.co/cover/l8vnence5sdisocc-5z8h91kixhr3.jpg",    
+      "MainCategory":"Movies",
+      "Geans":"Romantic",
+      "FileID":"kzgdx248445i",
+      "Plateform":"Doodstream",     
+      "id":1    
       }
   ]
 }
